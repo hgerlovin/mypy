@@ -8,3 +8,5 @@ print datetime.now()
 
 # print home directory path
 print os.environ['HOME']
+
+# added a comment
